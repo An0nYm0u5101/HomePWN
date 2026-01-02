@@ -7,7 +7,7 @@ casttube>=0.2.0
 pychromecast
 pybluez
 bluepy 
-scapy==2.4.3
+scapy==2.7.0rc1
 access_points
 python-nmap
 pycairo
